@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/annah11/Node-js/issues"
   },
-  "homepage": "https://github.com/annah11/Node-js/tree/main#readme"
+  "homepage": "https://github.com/annah11/Node-js/tree/main#readme",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
 }
