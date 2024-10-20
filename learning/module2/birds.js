@@ -18,3 +18,10 @@ router.get('/about', (req, res) => {
 })
 
 module.exports = router
+
+
+const birds = require('./birds')
+
+// ...
+
+app.use('/birds', birds)
